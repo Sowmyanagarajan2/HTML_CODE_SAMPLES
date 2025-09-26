@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sowmya's Resume</title>
+
+</head>
+<body>
+    <h1 align ="center"> <u> Sowmya's Resume </u> </h1>
+    <p><i>Dedicated and detail-oriented professional with a passion for web development and a strong foundation in HTML, CSS, and JavaScript. Eager to contribute technical skills and creativity to a dynamic team.</i></p>
+    <hr>
+    <h2>Personal Information</h2>
+    <p><b>Name: Sowmya Nagarajan</b></p>
+    <p><b>Address: Chennai, Tamil Nadu</b></p>
+    <img src="i111.jpg" alt="img is not loaded" width="150" height="150"> <!--img tag is used to insert image in html document-->
+    <!--attribute gives extra information about an element name = "value" Ex: width ="500"-->
+    <!--align -> right,left,center,justify -->
+    <hr>
+    <h2>Contact Information</h2>
+    <p><i>Email:sowmya@gmail.com</i></p>
+    <p><i>Phone:123-456-7890</i></p>
+
+    <h2>Education</h2>
+    <p> <b> BE - EIE </b></p>
+    <p>Anna University</p>
+<h2>Skills</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+</ul>
+<h2>Experience</h2>
+<p>Intern at ABC Company</p>
+<hr>
+<h2>Projects</h2>
+<p>ABC Project</p>
+<p>Project description :</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore sint fugit autem, laboriosam saepe explicabo exercitationem ipsum vitae! Temporibus dolorum suscipit adipisci magni corporis perferendis ipsam iusto quas dolor, hic quod asperiores accusantium minima eveniet saepe reprehenderit, similique et impedit! Mollitia incidunt cumque sapiente facilis officia eius commodi ipsum pariatur.</p>
+
+<hr>
+<h2>Contact information</h2>
+<p>Linkedin : 
+    <a href="https://www.linkedin.com/in/sowmya-nagarajan-30151911a/" target="_blank">Sowmya linkedin</a>
+</p>
+<p>Github :
+<a href="https://github.com/Sowmyanagarajan2">Github Link </a>
+</p>
+
+<hr>
+
+</body>
+
+</html>
